@@ -1,0 +1,132 @@
+.header-container {
+  background-image: url(img.png);
+  background-size: 100% 100%;
+}
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.link {
+  font-size: 40;
+}
+.logoContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-top: 18px;
+}
+
+.tidepoolLabs {
+  color: white;
+  font-size: 20px;
+}
+.TeamandPortfolio {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.TeamALink {
+  color: white;
+  font-size: 16px;
+  padding-right: 10px;
+}
+.PortfolioLink {
+  color: white;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.titleContainer {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.h1styles {
+  font-size: 72px;
+  font-weight: 300;
+  font-family: "NEXT Pan Book";
+  line-height: 95%;
+  letter-spacing: -0.05em;
+}
+
+.lead-Styles {
+  font-size: 50px;
+  font-weight: 300;
+  line-height: 110%;
+  letter-spacing: -0.03em;
+}
+.zero-Container {
+  color: gold;
+}
+.text-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: 20px;
+}
+.title-container {
+  height: 400px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+.arrow-styles {
+  width: 45px;
+  height: 45px;
+  background-color: #ef4e40;
+  border: solid #ef4e40;
+  border-radius: 50px;
+}
+.second-container {
+  margin-top: 71px;
+}
+.second-title-container {
+  display: flex;
+  flex-direction: column;
+}
+.portfolio-link {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 140%;
+  color: #f77a5a;
+}
+.h3-title {
+  margin-top: 16px;
+  font-weight: 300;
+  font-size: 50px;
+  line-height: 110%;
+  letter-spacing: -0.03em;
+  color: #4a4a4a;
+}
+.second-lead {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 140%;
+  color: #858585;
+}
+.images-container {
+  display: flex;
+  flex-direction: row;
+}
+.phones-image {
+  padding-right: 26px;
+}
+
+.phone-text-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.arrow1 {
+  background-color: #f77a5a;
+}
+.container {
+  max-width: 1200px;
+  width: 100%;
+  margin: auto;
+}
